@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/WBP_UI.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_UI.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Celivin/Documents/Unreal Projects/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
+			]
+		}
+	]
+}
