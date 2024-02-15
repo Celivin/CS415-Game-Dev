@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/UI/WBP_UI.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/Enemy/BP_Pursuer.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/UI/WBP_Restart.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/Interactables/BP_HealthPack.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/Enemy/Pursuer_AIController.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/Enemy/EAIState.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/UI/T_Restart.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/InfiniteMatrix/UI/WBP_UI.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/InfiniteMatrix/UI/WBP_Reset.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Blueprints/UI/WBP_Reset.uasset",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Maps/Untitled1.umap",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Maps/Test.umap",
+				"C:/Users/Celivin/Documents/Unreal Projects/LevelDesign 5.2/Content/LearningKit_Games/Maps/22.umap"
+			]
+		}
+	]
+}
